@@ -1,171 +1,202 @@
 {
-  "name": "Divith KR",
-  "title": "Junior Developer",
-  "headline": "JavaScript | React.js | Node.js | MongoDB | PostgreSQL",
-  "location": "Bengaluru",
+  "name": "Sai Kishan R",
   "contact": {
-    "email": "divith2526@gmail.com",
-    "phone": "9353473258"
+    "location": "Bengaluru, India",
+    "phone": "+91 8660126353",
+    "email": "peverrel@gmail.com",
+    "linkedin": "https://linkedin.com/in/sai-kishan-r-0a0bb42b5"
   },
-  "links": {
-    "linkedin": "https://www.linkedin.com/in/divith-k-r/",
-    "github": "https://github.com/Divikr",
-    "portfolio": "https://divith.onrender.com"
-  },
-  "profile_summary": "Junior Developer with hands-on experience in Full Stack Development using JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript, and PostgreSQL. Currently working at Curatal after successfully completing a Full Stack Developer Internship, contributing to scalable admin-side platforms and production-ready web applications. Experienced in building secure REST APIs, responsive user interfaces, database-driven backend systems, and performance-optimized applications across the MERN stack. Contributed to key modules including Badges, Coaching, Mentor Platform, Candidate Feedback, and Women in Tech initiatives. Comfortable working in Agile environments with cross-functional teams using Jira, GitLab, Postman, and modern development workflows.",
-  "skills": {
-    "languages": [
-      "JavaScript (ES6+)",
-      "TypeScript",
-      "HTML5",
-      "CSS3"
-    ],
-    "frontend": [
-      "React.js",
-      "Redux",
-      "Tailwind CSS",
-      "Bootstrap",
-      "Material UI (MUI)"
-    ],
-    "backend": [
-      "Node.js",
-      "Express.js",
-      "REST APIs"
-    ],
-    "databases": [
-      "MongoDB",
-      "PostgreSQL"
-    ],
-    "tools": [
-      "Git",
-      "GitHub",
-      "GitLab",
-      "Postman",
+  "professional_summary": "Product Manager at Curatal with 7+ years of combined experience in audit, sales analytics, development and product management. Defines product requirements and builds internal tools and AI systems using Python, SQL, Node.js and React. Also serves as CISO. Pursuing an M.Tech in Data Science and AI at PES University. SAS Base Programming certified.",
+  "technical_skills": {
+    "product": [
+      "PRDs",
+      "BRDs",
+      "User stories (INVEST)",
+      "Process flows",
+      "Test cases",
+      "Roadmaps",
+      "Stakeholder management",
       "Figma",
-      "VS Code",
-      "Jira"
+      "UI/UX design systems"
     ],
-    "other": [
-      "Authentication (JWT, OAuth)",
-      "API Integration",
-      "Responsive UI Development"
+    "programming_and_databases": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "scikit-learn",
+      "Matplotlib",
+      "Seaborn",
+      "SQL (joins, CTEs, window functions, subqueries)",
+      "PostgreSQL",
+      "JavaScript",
+      "Node.js",
+      "SAS"
+    ],
+    "bi_and_reporting": [
+      "Tableau",
+      "Power BI (DAX, data modeling)",
+      "Excel (Pivot Tables, Power Query, VBA, macros)"
+    ],
+    "ai_and_ml": [
+      "Machine learning",
+      "Deep learning",
+      "Natural Language Processing",
+      "Regression",
+      "Tree models",
+      "XGBoost",
+      "LightGBM",
+      "Clustering",
+      "PCA",
+      "Time series",
+      "Feature engineering",
+      "SHAP",
+      "Model evaluation (AUC, KS, PSI, Gini)",
+      "Ollama",
+      "OpenAI Realtime API",
+      "Google Speech-to-Text",
+      "AWS Polly"
+    ],
+    "web_and_integrations": [
+      "React",
+      "Express",
+      "Tailwind CSS",
+      "REST APIs",
+      "WebSockets",
+      "Microsoft Graph API",
+      "Kafka",
+      "Docker",
+      "Exotel",
+      "Twilio"
+    ],
+    "security": [
+      "Information security",
+      "ISO 27001:2022",
+      "Data Processing Agreements",
+      "Data Protection Impact Assessments",
+      "Vendor risk management"
     ]
   },
-  "experience": [
+  "professional_experience": [
     {
-      "role": "Junior Developer",
-      "company": "Curatal",
+      "title": "Product Manager",
+      "company": "Curatal (Progressive Video Pvt. Ltd.)",
       "location": "Bengaluru",
-      "start_date": "Apr 2026",
-      "end_date": "Present",
-      "bullets": [
-        "Promoted to Junior Developer after successfully completing a Full Stack Developer Internship and contributing to core platform development.",
-        "Working on scalable admin-side systems and internal platforms including Salary Predictor, Coaching and Mentoring modules.",
-        "Developing and maintaining secure REST APIs, backend services, and responsive frontend components using React.js, Node.js, Express.js, and PostgreSQL.",
-        "Optimizing application performance, improving database queries, fixing production issues, and implementing feature enhancements across the platform.",
-        "Collaborating with cross-functional teams in Agile environments using Jira, GitLab, and Postman for task management, testing, and deployment workflows."
+      "start_date": "2025-05",
+      "end_date": null,
+      "is_current": true,
+      "previous_roles": [
+        "Senior Sales Operations Analyst",
+        "Sales Operations & Analytics Analyst"
+      ],
+      "responsibilities": [
+        "Own PRDs and flows for the candidate portal, portfolio, Assured Interviews wallet, Club Curatal and Vetted vs Pre-Interviewed recruiter features.",
+        "Defined panel resume PII redaction, skill taxonomy and candidate search rules; created user stories and the candidate portal design system.",
+        "Build internal tools and AI systems, including Commercial Approvals, an AI Recruiting Voice Agent and an AI Assessment System.",
+        "Serve as CISO, preparing data protection documents, vendor risk responses and SLA documentation for enterprise clients.",
+        "Build Tableau and Power BI dashboards for pipeline, revenue and conversions; automate reporting with Python and Excel.",
+        "Use SQL for data extraction, reconciliation and validation. Work with Data Science and Data Engineering on model QA, data models and backend microservices.",
+        "Coordinate with Sales, Product, Marketing and Client Success on segmentation, business rules, KPIs and SLA monitoring."
       ]
     },
     {
-      "role": "Full Stack Developer Intern",
-      "company": "Curatal",
+      "title": "Senior Audit Assistant",
+      "company": "RSS & Co.",
       "location": "Bengaluru",
-      "start_date": "Sep 2025",
-      "end_date": "Mar 2026",
-      "bullets": [
-        "Contributed to production-ready admin modules including Badges, Candidate Feedback and CRM integration.",
-        "Built and integrated secure backend APIs with authentication, validation, and role-based access control mechanisms.",
-        "Developed responsive frontend interfaces and enhanced backend functionalities using React.js, Node.js, Express.js, and PostgreSQL.",
-        "Worked closely with product and development teams to debug issues, improve workflows, and deliver scalable application features.",
-        "Participated in Agile sprint cycles, API testing, bug fixing, and performance optimization activities across dashboards and internal systems."
-      ]
-    },
-    {
-      "role": "Full Stack Development Bootcamp",
-      "company": "Brototype",
-      "location": "Bengaluru",
-      "start_date": "2024",
-      "end_date": "2025",
-      "bullets": [
-        "Completed an intensive self-learning full-stack development program focused on real-world application building.",
-        "Developed multiple production-style projects using MERN stack technologies and PostgreSQL databases.",
-        "Worked on the complete application lifecycle including frontend UI, backend APIs, deployment, authentication, and testing.",
-        "Implemented CRUD operations, API integrations, responsive layouts, and secure authentication systems across projects.",
-        "Collaborated using Git/GitHub and practiced Agile and Scrum development methodologies."
+      "start_date": "2017-04",
+      "end_date": "2023-03",
+      "is_current": false,
+      "responsibilities": [
+        "Conducted statutory audits, reconciled large datasets and identified exceptions across client portfolios.",
+        "Built SQL and Excel reconciliation routines and prepared reports on financial anomalies, cost trends and risks for client stakeholders."
       ]
     }
   ],
-  "projects": [
+  "key_projects": [
     {
-      "name": "RevGear",
-      "subtitle": "E-Commerce Platform",
-      "stack": [
-        "Express.js",
-        "MongoDB",
-        "EJS",
-        "Tailwind CSS"
+      "name": "Curatal Commercial Approvals",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL"
       ],
-      "bullets": [
-        "Developed a complete e-commerce platform with user authentication, product listings, shopping cart, order placement, and admin-side inventory management.",
-        "Implemented secure session handling, password hashing, and admin authorization to ensure application security and protect user data.",
-        "Designed optimized MongoDB schemas to reduce redundant queries and improve database performance by nearly 30%.",
-        "Built a mobile-first responsive UI using Tailwind CSS to ensure fast load times and consistent user experience across devices."
-      ]
+      "description": "Built a proposal and approvals platform with CEO and Director approval flows, versioning and role-based dashboards. Automated PDF proposals, Outlook integration and Excel exports; wrote the PRD and 85 test cases."
     },
     {
-      "name": "Budget-Plan",
-      "subtitle": "Budget Tracking App",
-      "stack": [
-        "React.js",
-        "HTML",
-        "CSS"
+      "name": "AI Recruiting Voice Agent and Speech Pipeline",
+      "technologies": [
+        "Node.js",
+        "OpenAI",
+        "Google STT",
+        "AWS Polly"
       ],
-      "bullets": [
-        "Created an interactive budgeting system enabling users to add, track, and categorize expenses with real-time visual feedback.",
-        "Implemented dynamic state-driven calculations ensuring accurate balance updates, category totals, and monthly summaries.",
-        "Integrated lightweight chart visualizations for clear financial insights and spending pattern analysis.",
-        "Designed a clean and responsive UI focused on simplicity, accessibility, and usability across devices."
-      ]
+      "description": "Built AI calls for candidate screening with Exotel and Twilio, scheduling and job criteria extraction. Added speech recognition, Indian-English voice synthesis and audio processing for real-time conversations."
     },
     {
-      "name": "Touch-Evento",
-      "subtitle": "Event Invitation Platform",
-      "stack": [
-        "React.js"
+      "name": "AI Assessment System",
+      "technologies": [
+        "Python",
+        "Ollama"
       ],
-      "bullets": [
-        "Developed a customizable digital invitation platform allowing hosts to create and share event invites with RSVP tracking.",
-        "Implemented real-time RSVP updates enabling hosts to monitor guest confirmations and attendance status instantly.",
-        "Optimized React component structure and state management for smoother interactions and faster rendering performance.",
-        "Built a modern responsive UI ensuring seamless usability across desktops, tablets, and mobile devices."
-      ]
+      "description": "Built a modular technical assessment system using lightweight local models for low-RAM environments. Created 14 structured Q&A files across software engineering topics."
     },
     {
-      "name": "Study Bangalore International",
-      "subtitle": "Admission Booking Website",
-      "stack": [
-        "HTML",
-        "CSS",
-        "JavaScript"
+      "name": "AI Resume Classifier",
+      "technologies": [
+        "Python",
+        "scikit-learn",
+        "Streamlit"
       ],
-      "bullets": [
-        "Built a responsive admission booking and enquiry platform designed for accessibility and improved user experience.",
-        "Improved navigation and user flow by structuring clear step-by-step form sections for faster submissions.",
-        "Implemented robust client-side form validations to improve data accuracy and prevent invalid entries.",
-        "Optimized frontend structure and asset loading to improve page performance and reduce load times."
-      ]
+      "description": "Built an NLP classifier using TF-IDF and Logistic Regression. Evaluated it with precision, recall and F1, and deployed it with Streamlit."
+    },
+    {
+      "name": "Data Analytics Projects",
+      "technologies": [
+        "Tableau",
+        "Python"
+      ],
+      "description": "Created UK Crime dashboards and story views in Tableau. Analyzed 8,000+ Netflix titles with Pandas and Seaborn to identify trends by year, country, genre and rating."
+    },
+    {
+      "name": "ML Hackathons",
+      "technologies": [
+        "Python",
+        "XGBoost",
+        "LightGBM"
+      ],
+      "description": "Ranked 5th in House Price Prediction (RMSE approximately 98.15) and achieved AUC approximately 0.9928 in Employee Attrition Prediction, using ensembles and SHAP for interpretation."
     }
   ],
   "education": [
     {
-      "institution": "NMC Sullia, Mangalore University",
-      "degree": "Bachelor of Science (Physics, Mathematics, Computer Science)",
-      "end_year": 2023
+      "degree": "M.Tech",
+      "specialization": "Data Science and Artificial Intelligence",
+      "institution": "PES University",
+      "location": "Bengaluru",
+      "status": "Pursuing",
+      "coursework": [
+        "Machine Learning",
+        "Deep Learning",
+        "Statistical Methods",
+        "Databases and SQL",
+        "Mathematical Foundations"
+      ],
+      "focus_areas": [
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
     },
     {
-      "institution": "Alva’s PU College, Moodbidri",
-      "degree": "Pre-University Course (Science Stream)",
-      "end_year": 2019
+      "degree": "B.E.",
+      "specialization": "Electronics and Communication Engineering",
+      "institution": "R.V. College of Engineering",
+      "location": "Bengaluru",
+      "cgpa": 9.1
     }
+  ],
+  "certifications": [
+    "SAS Base Programming Certification, SAS 9.4 (Performance-Based Exam)",
+    "SQL Fundamentals",
+    "Python for Data Analysis",
+    "Power BI for Beginners"
   ]
 }
